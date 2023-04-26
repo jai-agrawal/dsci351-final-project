@@ -1,4 +1,4 @@
-# DSCI-351 Final Project
+# DSCI-351 Final Project (Team 12)
 Team Members: Jai Agrawal (1061531919)
 Project Topic: Emulating MongoDB Server
 
